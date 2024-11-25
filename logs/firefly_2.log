@@ -1,0 +1,1302 @@
+Firefly 2 server started on port 5002
+Firefly 2: Received phase from neighbor 1: 5.20118191243798
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.20118191243798
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 1
+Firefly 2: Neighbor phases: [5.20118191243798]
+Firefly 2: Updated phase to 0.3796252212453775
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.806747094071583
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.806747094071583
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.30118191243798
+Firefly 2: Received phase from neighbor 1: 5.30118191243798
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.30118191243798, 4.806747094071583]
+Firefly 2: Updated phase to 0.46993626827524815
+Firefly 2: Received phase from neighbor 4: 4.907888982681753
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.907888982681753
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.40123622098776
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.40123622098776
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.40123622098776, 4.907888982681753]
+Firefly 2: Updated phase to 0.5602427050071301
+Firefly 2: Received phase from neighbor 4: 5.009075061115228
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.009075061115228
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.501292596328526
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.501292596328526
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.501292596328526, 5.009075061115228]
+Firefly 2: Updated phase to 0.6505455033417402
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.110693677745647
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.110693677745647
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.601522483738001
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.601522483738001, 5.110693677745647]
+Firefly 2: Updated phase to 0.7408453621022713
+Firefly 2: Received phase from neighbor 1: 5.601522483738001
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 4: 5.212350676652826
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.601522483738001, 5.212350676652826]
+Firefly 2: Updated phase to 0.8310445971424893
+Firefly 2: Received phase from neighbor 4: 5.212350676652826
+Firefly 2: Received phase from neighbor 1: 5.7017552085903285
+Firefly 2: Received phase from neighbor 1: 5.7017552085903285
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.7017552085903285, 5.212350676652826]
+Firefly 2: Updated phase to 0.921378676292856
+Firefly 2: Received phase from neighbor 4: 5.314045313769504
+Firefly 2: Received phase from neighbor 4: 5.314045313769504
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.80199047401119
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.80199047401119
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.80199047401119, 5.314045313769504]
+Firefly 2: Updated phase to 1.0117026432858909
+Firefly 2: Received phase from neighbor 4: 5.415654529335576
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.415654529335576
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.902323473959305
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.902323473959305
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.902323473959305, 5.415654529335576]
+Firefly 2: Updated phase to 1.1020178038347248
+Firefly 2: Received phase from neighbor 4: 5.517305079987718
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.517305079987718
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 6.002662538418277
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 6.002662538418277
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [6.002662538418277, 5.517305079987718]
+Firefly 2: Updated phase to 1.1923251981452874
+Firefly 2: Received phase from neighbor 4: 5.618996234976214
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.618996234976214
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 6.103007320549456
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 6.103007320549456
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [6.103007320549456, 5.618996234976214]
+Firefly 2: Updated phase to 1.2826258791426182
+Firefly 2: Received phase from neighbor 4: 5.720727248418596
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.720727248418596
+Firefly 2: Received phase from neighbor 1: 6.203357469082837
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 6.203357469082837
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [6.203357469082837, 5.720727248418596]
+Firefly 2: Updated phase to 1.3729209117869505
+Firefly 2: Received phase from neighbor 1: 0.020527321601085724
+Firefly 2: Received phase from neighbor 4: 5.822497359903462
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.020527321601085724
+Firefly 2: Received phase from neighbor 4: 5.822497359903462
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.020527321601085724, 5.822497359903462]
+Firefly 2: Updated phase to 1.4632113723669602
+Firefly 2: Received phase from neighbor 1: 0.12076955994645296
+Firefly 2: Received phase from neighbor 1: 0.12076955994645296
+Firefly 2: Received phase from neighbor 4: 5.924305795107483
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.924305795107483
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.22080552348587706
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.22080552348587706, 5.924305795107483]
+Firefly 2: Updated phase to 1.5536356023492226
+Firefly 2: Received phase from neighbor 1: 0.22080552348587706
+Firefly 2: Received phase from neighbor 4: 6.026151766424961
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 6.026151766424961
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.32083867404298255
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.32083867404298255
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.32083867404298255, 6.026151766424961]
+Firefly 2: Updated phase to 1.6440616615886519
+Firefly 2: Received phase from neighbor 4: 6.128035089166366
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 6.128035089166366
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.42086932894462525
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.42086932894462525
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.42086932894462525, 6.128035089166366]
+Firefly 2: Updated phase to 1.7344905716294572
+Firefly 2: Received phase from neighbor 4: 6.229954972857469
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 6.229954972857469
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.5208972744466132
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.5208972744466132
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.5208972744466132, 6.229954972857469]
+Firefly 2: Updated phase to 1.8249233594129652
+Firefly 2: Received phase from neighbor 4: 0.04872530876898473
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.04872530876898473
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.6209222969527048
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.6209222969527048
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.6209222969527048, 0.04872530876898473]
+Firefly 2: Updated phase to 1.9153610565850623
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.15071589928351362
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.15071589928351362
+Firefly 2: Received phase from neighbor 1: 0.7209441833407424
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.7209441833407424
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.7209441833407424, 0.15071589928351362]
+Firefly 2: Updated phase to 2.0058046987931095
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.2527406154739856
+Firefly 2: Received phase from neighbor 4: 0.2527406154739856
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.8209627212851578
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.8209627212851578, 0.2527406154739856]
+Firefly 2: Updated phase to 2.0962553249735336
+Firefly 2: Received phase from neighbor 1: 0.8209627212851578
+Firefly 2: Received phase from neighbor 4: 0.35479862648452937
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.35479862648452937
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.9209776995752412
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.9209776995752412, 0.35479862648452937]
+Firefly 2: Updated phase to 2.186713976631326
+Firefly 2: Received phase from neighbor 1: 0.9209776995752412
+Firefly 2: Received phase from neighbor 4: 0.45646380283367083
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.45646380283367083
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.0209889084285775
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.0209889084285775, 0.45646380283367083]
+Firefly 2: Updated phase to 2.2771820343020215
+Firefly 2: Received phase from neighbor 1: 1.0209889084285775
+Firefly 2: Received phase from neighbor 4: 0.5585872983628043
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.5585872983628043
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.1209961397990709
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.1209961397990709, 0.5585872983628043]
+Firefly 2: Updated phase to 2.3676601792828382
+Firefly 2: Received phase from neighbor 1: 1.1209961397990709
+Firefly 2: Received phase from neighbor 4: 0.6607415665992578
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.6607415665992578
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.2209991848056656
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.2209991848056656, 0.6607415665992578]
+Firefly 2: Updated phase to 2.4581494564268787
+Firefly 2: Received phase from neighbor 1: 1.2209991848056656
+Firefly 2: Received phase from neighbor 4: 0.7629257467167795
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.7629257467167795
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.3209978396655608
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.3209978396655608, 0.7629257467167795]
+Firefly 2: Updated phase to 2.548650910236975
+Firefly 2: Received phase from neighbor 1: 1.3209978396655608
+Firefly 2: Received phase from neighbor 4: 0.8651389721533863
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.8651389721533863
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.4209919032190688
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.4209919032190688
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.4209919032190688, 0.8651389721533863]
+Firefly 2: Updated phase to 2.639165584123875
+Firefly 2: Received phase from neighbor 4: 0.9673803712946769
+Firefly 2: Received phase from neighbor 4: 0.9673803712946769
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.5209811772107107
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.5209811772107107
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.5209811772107107, 0.9673803712946769]
+Firefly 2: Updated phase to 2.7296945196640956
+Firefly 2: Received phase from neighbor 4: 1.0692145198846956
+Firefly 2: Received phase from neighbor 4: 1.0692145198846956
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.1710952778440322
+Firefly 2: Received phase from neighbor 1: 1.6209654665623248
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 4: 1.1710952778440322
+Firefly 2: Received phase from neighbor 1: 1.6209654665623248
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.6209654665623248, 1.1710952778440322]
+Firefly 2: Updated phase to 2.820219227475474
+Firefly 2: Received phase from neighbor 4: 1.2729965667990661
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.2729965667990661
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.7209445796377385
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.7209445796377385, 1.2729965667990661]
+Firefly 2: Updated phase to 2.9107662261618987
+Firefly 2: Received phase from neighbor 1: 1.7209445796377385
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.3749192320587063
+Firefly 2: Received phase from neighbor 4: 1.3749192320587063
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.820919201715036
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.820919201715036
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.820919201715036, 1.3749192320587063]
+Firefly 2: Updated phase to 3.0013364987151228
+Firefly 2: Received phase from neighbor 4: 1.4768624868067612
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.4768624868067612
+Firefly 2: Received phase from neighbor 1: 1.92088917820937
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.92088917820937
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.92088917820937, 1.4768624868067612]
+Firefly 2: Updated phase to 3.091931019380698
+Firefly 2: Received phase from neighbor 1: 2.020854358257406
+Firefly 2: Received phase from neighbor 4: 1.5788255441288253
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.5788255441288253
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.020854358257406
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.020854358257406, 1.5788255441288253]
+Firefly 2: Updated phase to 3.1825507530248873
+Firefly 2: Received phase from neighbor 1: 2.120579839465173
+Firefly 2: Received phase from neighbor 1: 2.120579839465173
+Firefly 2: Received phase from neighbor 4: 1.680807617641482
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.680807617641482
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.120579839465173, 1.680807617641482]
+Firefly 2: Updated phase to 3.273196082586834
+Firefly 2: Received phase from neighbor 1: 2.2200706003598643
+Firefly 2: Received phase from neighbor 1: 2.2200706003598643
+Firefly 2: Received phase from neighbor 4: 1.7828079221115671
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.7828079221115671
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.3195511755222205
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.3195511755222205
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.3195511755222205, 1.7828079221115671]
+Firefly 2: Updated phase to 3.3641345861746705
+Firefly 2: Received phase from neighbor 4: 1.884826525707449
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.884826525707449
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.41902199213712
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.41902199213712
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.41902199213712, 1.884826525707449]
+Firefly 2: Updated phase to 3.4551026824413555
+Firefly 2: Received phase from neighbor 4: 1.9868627765857598
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.9868627765857598
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.518483867314215
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.518483867314215
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.518483867314215, 1.9868627765857598]
+Firefly 2: Updated phase to 3.546101157422884
+Firefly 2: Received phase from neighbor 4: 2.0889159332992566
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.0889159332992566
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.6179368622393935
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.6179368622393935
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.6179368622393935, 2.0889159332992566]
+Firefly 2: Updated phase to 3.6371307857148314
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.1909852571087858
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.1909852571087858
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.717381041390219
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.717381041390219, 2.1909852571087858]
+Firefly 2: Updated phase to 3.7281923300719915
+Firefly 2: Received phase from neighbor 1: 2.717381041390219
+Firefly 2: Received phase from neighbor 4: 2.293070012493573
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.293070012493573
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.816816472538052
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.816816472538052
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.816816472538052, 2.293070012493573]
+Firefly 2: Updated phase to 3.819286541022482
+Firefly 2: Received phase from neighbor 4: 2.395169467649061
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.395169467649061
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.9162432267444482
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.9162432267444482
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.9162432267444482, 2.395169467649061]
+Firefly 2: Updated phase to 3.910414156496791
+Firefly 2: Received phase from neighbor 4: 2.497282894971789
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.497282894971789
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.015661378351892
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.015661378351892
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.015661378351892, 2.497282894971789]
+Firefly 2: Updated phase to 4.001575901472203
+Firefly 2: Received phase from neighbor 4: 2.599409571530839
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.599409571530839
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.115071004968935
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.115071004968935
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.115071004968935, 2.599409571530839]
+Firefly 2: Updated phase to 4.092772487633001
+Firefly 2: Received phase from neighbor 4: 2.701548779525414
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.701548779525414
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.214472187449829
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.214472187449829
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.214472187449829, 2.701548779525414]
+Firefly 2: Updated phase to 4.1840046130467945
+Firefly 2: Received phase from neighbor 4: 2.8036998067281305
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.8036998067281305
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.314132237587277
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.314132237587277
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.314132237587277, 2.8036998067281305]
+Firefly 2: Updated phase to 4.275273823428825
+Firefly 2: Received phase from neighbor 4: 2.9063196153918143
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.9063196153918143
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.413784017615931
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.413784017615931
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.413784017615931, 2.9063196153918143]
+Firefly 2: Updated phase to 4.3665812600822616
+Firefly 2: Received phase from neighbor 4: 3.008945444840702
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.008945444840702
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.5134275156546884
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.5134275156546884
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.5134275156546884, 3.008945444840702]
+Firefly 2: Updated phase to 4.457927633707689
+Firefly 2: Received phase from neighbor 4: 3.111576544194498
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.111576544194498
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.6130627324136158
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.6130627324136158, 3.111576544194498]
+Firefly 2: Updated phase to 4.549313637886367
+Firefly 2: Received phase from neighbor 1: 3.6130627324136158
+Firefly 2: Received phase from neighbor 4: 3.2142121732493845
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.2142121732493845
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.712689674157291
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.712689674157291
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.712689674157291, 3.2142121732493845]
+Firefly 2: Updated phase to 4.6407399488126115
+Firefly 2: Received phase from neighbor 4: 3.3168516028140953
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.3168516028140953
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.812308352659331
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.812308352659331
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.812308352659331, 3.3168516028140953]
+Firefly 2: Updated phase to 4.732207225048634
+Firefly 2: Received phase from neighbor 4: 3.419494115027222
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.419494115027222
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.911918785149142
+Firefly 2: Received phase from neighbor 1: 3.911918785149142
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.911918785149142, 3.419494115027222]
+Firefly 2: Updated phase to 4.823716107301821
+Firefly 2: Received phase from neighbor 4: 3.5221390036556626
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.5221390036556626
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.011520994251186
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.011520994251186
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.011520994251186, 3.5221390036556626]
+Firefly 2: Updated phase to 4.915267218224421
+Firefly 2: Received phase from neighbor 4: 3.6247855743741724
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.6247855743741724
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.111115007917051
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.111115007917051
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.111115007917051, 3.6247855743741724]
+Firefly 2: Updated phase to 5.006861162235523
+Firefly 2: Received phase from neighbor 4: 3.727433145026006
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.727433145026006
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.210700859350638
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.210700859350638
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.210700859350638, 3.727433145026006]
+Firefly 2: Updated phase to 5.098498525365188
+Firefly 2: Received phase from neighbor 4: 3.830081045864689
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.830081045864689
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.310278586926783
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.310278586926783
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.310278586926783, 3.830081045864689]
+Firefly 2: Updated phase to 5.190179875120536
+Firefly 2: Received phase from neighbor 4: 3.9327286197769893
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.9327286197769893
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.409848234103627
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.409848234103627
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.409848234103627, 3.9327286197769893]
+Firefly 2: Updated phase to 5.281905760373547
+Firefly 2: Received phase from neighbor 4: 4.0353752224872
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.0353752224872
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.509409849329062
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.509409849329062
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.509409849329062, 4.0353752224872]
+Firefly 2: Updated phase to 5.373676711270308
+Firefly 2: Received phase from neighbor 4: 4.138020222742877
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.138020222742877
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.608963485941586
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.608963485941586
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.608963485941586, 4.138020222742877]
+Firefly 2: Updated phase to 5.465493239161365
+Firefly 2: Received phase from neighbor 4: 4.240663002482207
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.240663002482207
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.708509202065904
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.708509202065904
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.708509202065904, 4.240663002482207]
+Firefly 2: Updated phase to 5.557355836552844
+Firefly 2: Received phase from neighbor 4: 4.343302956983235
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.343302956983235
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.808047060503601
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.808047060503601
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.808047060503601, 4.343302956983235]
+Firefly 2: Updated phase to 5.649264977077931
+Firefly 2: Received phase from neighbor 4: 4.445939494995174
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.445939494995174
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.907577128619233
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.907577128619233
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.907577128619233, 4.445939494995174]
+Firefly 2: Updated phase to 5.74122111548829
+Firefly 2: Received phase from neighbor 4: 4.548572038852084
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.548572038852084
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.007099478222164
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.007099478222164
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.007099478222164, 4.548572038852084]
+Firefly 2: Updated phase to 5.833224687664958
+Firefly 2: Received phase from neighbor 4: 4.651200024569233
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.651200024569233
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.106614185444497
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.106614185444497
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.106614185444497, 4.651200024569233]
+Firefly 2: Updated phase to 5.925276110648229
+Firefly 2: Received phase from neighbor 4: 4.753822901922444
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.753822901922444
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.206121330615422
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.206121330615422
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.206121330615422, 4.753822901922444]
+Firefly 2: Updated phase to 6.017375782686012
+Firefly 2: Received phase from neighbor 4: 4.85644013451081
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.85644013451081
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.305620998132317
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.305620998132317
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.305620998132317, 4.85644013451081]
+Firefly 2: Updated phase to 6.10952408330013
+Firefly 2: Received phase from neighbor 4: 4.959051199803139
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 4.959051199803139
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.4051132763289305
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.4051132763289305
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.4051132763289305, 4.959051199803139]
+Firefly 2: Updated phase to 6.20172137336998
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.061655589168535
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.061655589168535
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.504598257340966
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.504598257340966, 5.061655589168535]
+Firefly 2: Updated phase to 0.010782688053418532
+Firefly 2: Received phase from neighbor 1: 5.504598257340966
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 4: 5.164252807891534
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.504598257340966, 5.164252807891534]
+Firefly 2: Updated phase to 0.1027116872588593
+Firefly 2: Received phase from neighbor 4: 5.164252807891534
+Firefly 2: Received phase from neighbor 1: 5.6040760369693885
+Firefly 2: Received phase from neighbor 1: 5.6040760369693885
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.6040760369693885, 5.164252807891534]
+Firefly 2: Updated phase to 0.19449050775772975
+Firefly 2: Received phase from neighbor 4: 5.2668423751722315
+Firefly 2: Received phase from neighbor 4: 5.2668423751722315
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.703546714541767
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.703546714541767
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.703546714541767, 5.2668423751722315]
+Firefly 2: Updated phase to 0.28631549016747804
+Firefly 2: Received phase from neighbor 4: 5.369604131483099
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.369604131483099
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.803351341883695
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.803351341883695
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.803351341883695, 5.369604131483099]
+Firefly 2: Updated phase to 0.3781886532933183
+Firefly 2: Received phase from neighbor 4: 5.472359499940908
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.472359499940908
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 5.903146969265475
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 5.903146969265475
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [5.903146969265475, 5.472359499940908]
+Firefly 2: Updated phase to 0.4701104660267693
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.575107918038135
+Firefly 2: Received phase from neighbor 4: 5.575107918038135
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 6.002933625927523
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 6.002933625927523
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [6.002933625927523, 5.575107918038135]
+Firefly 2: Updated phase to 0.562081376536051
+Firefly 2: Received phase from neighbor 4: 5.677848838269004
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.677848838269004
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 6.102711347161202
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 6.102711347161202
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [6.102711347161202, 5.677848838269004]
+Firefly 2: Updated phase to 0.6541018123302469
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.780581728166815
+Firefly 2: Received phase from neighbor 4: 5.780581728166815
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 6.202480174158081
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 6.202480174158081
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [6.202480174158081, 5.780581728166815]
+Firefly 2: Updated phase to 0.7461721803439572
+Firefly 2: Received phase from neighbor 4: 5.883306070323989
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.883306070323989
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.019054846675390813
+Firefly 2: Received phase from neighbor 1: 0.019054846675390813
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.019054846675390813, 5.883306070323989]
+Firefly 2: Updated phase to 0.8382928670417485
+Firefly 2: Received phase from neighbor 4: 5.98602136239531
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 5.98602136239531
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.11880603159562385
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.11880603159562385
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.11880603159562385, 5.98602136239531]
+Firefly 2: Updated phase to 0.9304642385416911
+Firefly 2: Received phase from neighbor 4: 6.088727117084843
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 6.088727117084843
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.2185484796868747
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.2185484796868747
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.2185484796868747, 6.088727117084843]
+Firefly 2: Updated phase to 1.0226866407572488
+Firefly 2: Received phase from neighbor 4: 6.191422862117024
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 6.191422862117024
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.31828225415604383
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.31828225415604383
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.31828225415604383, 6.191422862117024]
+Firefly 2: Updated phase to 1.114960399556777
+Firefly 2: Received phase from neighbor 4: 0.01092283301288699
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.01092283301288699
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.41800742330149643
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.41800742330149643
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.41800742330149643, 0.01092283301288699]
+Firefly 2: Updated phase to 1.2072858209398682
+Firefly 2: Received phase from neighbor 4: 0.11359720174944957
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.11359720174944957
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.5177240603430724
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.5177240603430724
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.5177240603430724, 0.11359720174944957]
+Firefly 2: Updated phase to 1.2996631912297758
+Firefly 2: Received phase from neighbor 4: 0.21626023360904145
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.21626023360904145
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.6174322432502297
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.6174322432502297
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.6174322432502297, 0.21626023360904145]
+Firefly 2: Updated phase to 1.392092777281135
+Firefly 2: Received phase from neighbor 4: 0.3189115158108454
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.3189115158108454
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.7171320545686806
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.7171320545686806
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.7171320545686806, 0.3189115158108454]
+Firefly 2: Updated phase to 1.484574826702203
+Firefly 2: Received phase from neighbor 4: 0.421550650231435
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.421550650231435
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.816823581245869
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.816823581245869
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.816823581245869, 0.421550650231435]
+Firefly 2: Updated phase to 1.5771095680908291
+Firefly 2: Received phase from neighbor 4: 0.5241772532924006
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.5241772532924006
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 0.9165069144556277
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 0.9165069144556277
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [0.9165069144556277, 0.5241772532924006]
+Firefly 2: Updated phase to 1.6696972112833701
+Firefly 2: Received phase from neighbor 4: 0.6267909558360603
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.6267909558360603
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.016182149422341
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.016182149422341
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.016182149422341, 0.6267909558360603]
+Firefly 2: Updated phase to 1.762337947615766
+Firefly 2: Received phase from neighbor 4: 0.7298868180120345
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.7298868180120345
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.1162497265818194
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.1162497265818194
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.1162497265818194, 0.7298868180120345]
+Firefly 2: Updated phase to 1.855034817716586
+Firefly 2: Received phase from neighbor 4: 0.8329614460972095
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.8329614460972095
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.2163043607478836
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.2163043607478836
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.2163043607478836, 0.8329614460972095]
+Firefly 2: Updated phase to 1.9477879777814557
+Firefly 2: Received phase from neighbor 4: 0.936014570608512
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 0.936014570608512
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.3163461770887448
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.3163461770887448
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.3163461770887448, 0.936014570608512]
+Firefly 2: Updated phase to 2.0405975633918723
+Firefly 2: Received phase from neighbor 4: 1.0390459376300185
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.0390459376300185
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.4163753058935225
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.4163753058935225
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.4163753058935225, 1.0390459376300185]
+Firefly 2: Updated phase to 2.133463689921517
+Firefly 2: Received phase from neighbor 4: 1.1420553085572178
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.1420553085572178
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.5163918823230358
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.5163918823230358
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.5163918823230358, 1.1420553085572178]
+Firefly 2: Updated phase to 2.2263864529514215
+Firefly 2: Received phase from neighbor 4: 1.2450424598329282
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.2450424598329282
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.6163960461629334
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.6163960461629334
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.6163960461629334, 1.2450424598329282]
+Firefly 2: Updated phase to 2.3193659286930077
+Firefly 2: Received phase from neighbor 4: 1.3480071826755862
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.3480071826755862
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.716387941579462
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.716387941579462
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.716387941579462, 1.3480071826755862]
+Firefly 2: Updated phase to 2.412402174418055
+Firefly 2: Received phase from neighbor 4: 1.4509492828006127
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.4509492828006127
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 1.8163677168781596
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.8163677168781596
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.8163677168781596, 1.4509492828006127]
+Firefly 2: Updated phase to 2.505495228894661
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.5538685801355459
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.5538685801355459
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 1.9163355242657354
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.9163355242657354, 1.5538685801355459]
+Firefly 2: Updated phase to 2.598645112828304
+Firefly 2: Received phase from neighbor 1: 1.9163355242657354
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 4: 1.6567649085296137
+Firefly 2: Received phase from neighbor 4: 1.6567649085296137
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [1.9163355242657354, 1.6567649085296137]
+Firefly 2: Updated phase to 2.6914488487646437
+Firefly 2: Received phase from neighbor 1: 2.016291519615387
+Firefly 2: Received phase from neighbor 1: 2.016291519615387
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.016291519615387, 1.6567649085296137]
+Firefly 2: Updated phase to 2.784025243295765
+Firefly 2: Received phase from neighbor 4: 1.7596381154584082
+Firefly 2: Received phase from neighbor 4: 1.7596381154584082
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.11623586223578
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.11623586223578
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.11623586223578, 1.7596381154584082]
+Firefly 2: Updated phase to 2.8766570051566855
+Firefly 2: Received phase from neighbor 4: 1.86274533411793
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.86274533411793
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.2165432153328766
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.2165432153328766, 1.86274533411793]
+Firefly 2: Updated phase to 2.969346442327572
+Firefly 2: Received phase from neighbor 1: 2.2165432153328766
+Firefly 2: Received phase from neighbor 4: 1.9658292186814497
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 1.9658292186814497
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.3168354939243194
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.3168354939243194, 1.9658292186814497]
+Firefly 2: Updated phase to 3.062093694521314
+Firefly 2: Received phase from neighbor 1: 2.3168354939243194
+Firefly 2: Received phase from neighbor 4: 2.0688895416575352
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.0688895416575352
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.4171128258021892
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.4171128258021892, 2.0688895416575352]
+Firefly 2: Updated phase to 3.1548988799172357
+Firefly 2: Received phase from neighbor 1: 2.4171128258021892
+Firefly 2: Received phase from neighbor 4: 2.1714276285101555
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.1714276285101555
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.5173753445803313
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.5173753445803313
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.5173753445803313, 2.1714276285101555]
+Firefly 2: Updated phase to 3.247760714023896
+Firefly 2: Received phase from neighbor 4: 2.2744440154143364
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.2744440154143364
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.617623189418421
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.617623189418421
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.617623189418421, 2.2744440154143364]
+Firefly 2: Updated phase to 3.3406806541387177
+Firefly 2: Received phase from neighbor 4: 2.377436227248453
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.377436227248453
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 2.717856488978936
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.717856488978936
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.717856488978936, 2.377436227248453]
+Firefly 2: Updated phase to 3.4336587573152277
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.4804040967888
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.4804040967888
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 2.8180753928855204
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.8180753928855204, 2.4804040967888]
+Firefly 2: Updated phase to 3.5266950609406185
+Firefly 2: Received phase from neighbor 1: 2.8180753928855204
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 4: 2.5833474712319013
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.8180753928855204, 2.5833474712319013]
+Firefly 2: Updated phase to 3.6193934894435755
+Firefly 2: Received phase from neighbor 4: 2.5833474712319013
+Firefly 2: Received phase from neighbor 1: 2.9182800555014037
+Firefly 2: Received phase from neighbor 1: 2.9182800555014037
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [2.9182800555014037, 2.5833474712319013]
+Firefly 2: Updated phase to 3.7118661654717173
+Firefly 2: Received phase from neighbor 4: 2.686266211879676
+Firefly 2: Received phase from neighbor 4: 2.686266211879676
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.018470635666015
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.018470635666015
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.018470635666015, 2.686266211879676]
+Firefly 2: Updated phase to 3.8043952766348155
+Firefly 2: Received phase from neighbor 4: 2.7894167144147026
+Firefly 2: Received phase from neighbor 4: 2.7894167144147026
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.1190144051363444
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.1190144051363444
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.1190144051363444, 2.7894167144147026]
+Firefly 2: Updated phase to 3.8969830908331318
+Firefly 2: Received phase from neighbor 4: 2.8925424863724656
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.8925424863724656
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.2195409697651076
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.2195409697651076
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.2195409697651076, 2.8925424863724656]
+Firefly 2: Updated phase to 3.989629770925166
+Firefly 2: Received phase from neighbor 4: 2.9956433116935663
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 2.9956433116935663
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.3200504514328233
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.3200504514328233
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.3200504514328233, 2.9956433116935663]
+Firefly 2: Updated phase to 4.082335456659293
+Firefly 2: Received phase from neighbor 4: 3.0987189903653194
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.0987189903653194
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.420542978872327
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.420542978872327
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.420542978872327, 3.0987189903653194]
+Firefly 2: Updated phase to 4.175100265168378
+Firefly 2: Received phase from neighbor 4: 3.201769338117452
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.201769338117452
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.521018687366614
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.521018687366614
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.521018687366614, 3.201769338117452]
+Firefly 2: Updated phase to 4.267924291473507
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.304794186109835
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.304794186109835
+Firefly 2: Received phase from neighbor 1: 3.621477718449086
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.621477718449086
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.621477718449086, 3.304794186109835]
+Firefly 2: Updated phase to 4.360807608995657
+Firefly 2: Received phase from neighbor 4: 3.4077933806130662
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.4077933806130662
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.7219202196065932
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.7219202196065932
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.7219202196065932, 3.4077933806130662]
+Firefly 2: Updated phase to 4.453750270074143
+Firefly 2: Received phase from neighbor 4: 3.5107667826827047
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.5107667826827047
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.8223463439856395
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.8223463439856395
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.8223463439856395, 3.5107667826827047]
+Firefly 2: Updated phase to 4.546752306490738
+Firefly 2: Received phase from neighbor 4: 3.613714267827936
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 4: 3.613714267827936
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 3.922756250102095
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 3.922756250102095
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [3.922756250102095, 3.613714267827936]
+Firefly 2: Updated phase to 4.639813729998382
+Firefly 2: Received phase from neighbor 4: 3.716635725675426
+Firefly 2: Received phase from neighbor 4: 3.716635725675426
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.02315010155474
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.02315010155474
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.02315010155474, 3.716635725675426]
+Firefly 2: Updated phase to 4.732934532853447
+Firefly 2: Received phase from neighbor 4: 3.8195310596290946
+Firefly 2: Received phase from neighbor 4: 3.8195310596290946
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.123528066742934
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.123528066742934
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.123528066742934, 3.8195310596290946]
+Firefly 2: Updated phase to 4.826114688350575
+Firefly 2: Received phase from neighbor 4: 3.9223977121516893
+Firefly 2: Received phase from neighbor 4: 3.9223977121516893
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Received phase from neighbor 1: 4.224344843862299
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Received phase from neighbor 1: 4.224344843862299
+Firefly 2: Sent phase to neighbor 1
+Firefly 2: Number of neighbor phases received: 2
+Firefly 2: Neighbor phases: [4.224344843862299, 3.9223977121516893]
+Firefly 2: Updated phase to 4.919356016817697
+Firefly 2: Received phase from neighbor 4: 4.025233477499399
+Firefly 2: Received phase from neighbor 4: 4.025233477499399
+Firefly 2: Sent phase to neighbor 4
+Firefly 2: Sent phase to neighbor 4
